@@ -11,7 +11,7 @@ export const Projects = () => (
         </a>
       </li>
       <li>
-        <strong>Project 2</strong>: An AI agent website Landing Page & Waitlist website built with React & Node.js. >>{' '}
+        <strong>Project 2</strong>: An AI agent Landing Page & Waitlist website built with React & Node.js. >>{' '}
         <a href="https://github.com/yourusername/project2" style={{ color: '#0f0' }}>
           GitHub
         </a>
